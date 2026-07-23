@@ -47,3 +47,5 @@ python /home/runner/work/AppleWatch/AppleWatch/check_apple_watch_listing.py
 ```
 
 The script persists seen listing URLs in `.apple_watch_seen.json` and only notifies for newly seen matching listings.
+I am trying to get a refurbished Apple Watch for my mom after I got my first pay check from internship. Refurbished Apple Watches are cheaper and they get released on the Apple website spontaneously and I can only purchase them while stocks last.
+This is an automation to notify me when refurbished Apple Watches go on sale.
